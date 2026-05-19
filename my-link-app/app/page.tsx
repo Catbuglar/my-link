@@ -53,7 +53,7 @@ export default function Page() {
             </div>
           </div>
           <h1 className="text-3xl font-bold tracking-tight text-slate-900 dark:text-white mb-2 ml-1">
-            @username
+            @인우진
           </h1>
           <p className="text-slate-500 dark:text-slate-400 text-center max-w-sm leading-relaxed px-4">
             개발하고 디자인하는 크리에이터입니다. <br />
